@@ -1,13 +1,9 @@
 # One_Chicago
 
 Title: Explore Chicago - Your Essential City Guide
-One Chicago One App
+                                                                                    One Chicago One App
 
-Team members:
-Rakesh Deshalli Ravi
-Sohan Mahadev
-Sashank
-Naveen Kumar
+
 
 In our project we are creating an engaging and informative application using Streamlit and Python can be a great way to provide valuable services like locating nearby amenities and safety information. Below is an outline of content you could use for your Streamlit application, specifically tailored to serve the residents and visitors of Chicago by showing the nearest hospitals, public restrooms, bike racks, recreational facilities, and crime-related data:
 
